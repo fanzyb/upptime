@@ -22,7 +22,7 @@
     "url": "https://www.fan.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/www.fan.my.id.ico",
     "slug": "personal-webstite",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 391,
     "timeMonth": 397,
     "timeYear": 397,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-25": 0
+    }
   },
   {
     "name": "Link Website",
