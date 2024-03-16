@@ -22,19 +22,19 @@
     "url": "https://www.fan.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/www.fan.my.id.ico",
     "slug": "personal-webstite",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 383,
-    "timeDay": 173,
-    "timeWeek": 323,
+    "time": 382,
+    "timeDay": 244,
+    "timeWeek": 322,
     "timeMonth": 333,
-    "timeYear": 383,
+    "timeYear": 382,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 14
     }
   },
   {
