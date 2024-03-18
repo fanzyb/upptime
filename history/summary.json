@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 96,
-    "timeDay": 87,
-    "timeWeek": 91,
+    "timeDay": 59,
+    "timeWeek": 81,
     "timeMonth": 90,
     "timeYear": 96,
     "dailyMinutesDown": {}
@@ -24,14 +24,14 @@
     "slug": "personal-webstite",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.60%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 382,
-    "timeDay": 328,
-    "timeWeek": 338,
-    "timeMonth": 326,
+    "timeDay": 409,
+    "timeWeek": 345,
+    "timeMonth": 329,
     "timeYear": 382,
     "dailyMinutesDown": {
       "2024-03-16": 20
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 311,
-    "timeDay": 380,
-    "timeWeek": 308,
-    "timeMonth": 292,
+    "timeDay": 286,
+    "timeWeek": 331,
+    "timeMonth": 294,
     "timeYear": 311,
     "dailyMinutesDown": {
       "2023-10-30": 25
