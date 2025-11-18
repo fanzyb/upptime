@@ -30,18 +30,20 @@
     "url": "https://link.fan.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/link.fan.my.id.ico",
     "slug": "link-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 291,
-    "timeDay": 163,
-    "timeWeek": 287,
-    "timeMonth": 314,
+    "timeDay": 156,
+    "timeWeek": 270,
+    "timeMonth": 308,
     "timeYear": 314,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Drive",
@@ -50,17 +52,17 @@
     "slug": "drive",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 838,
     "timeDay": 600,
     "timeWeek": 555,
     "timeMonth": 612,
     "timeYear": 871,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 10,
       "2025-07-18": 19
     }
   },
@@ -71,17 +73,17 @@
     "slug": "drive-2",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 167,
     "timeDay": 125,
     "timeWeek": 120,
     "timeMonth": 113,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 10,
       "2025-05-02": 23
     }
   }
