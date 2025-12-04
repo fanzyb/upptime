@@ -4,7 +4,7 @@
     "url": "https://fan.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/fan.my.id.ico",
     "slug": "personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.19%",
@@ -14,7 +14,7 @@
     "timeDay": 703,
     "timeWeek": 677,
     "timeMonth": 780,
-    "timeYear": 684,
+    "timeYear": 683,
     "dailyMinutesDown": {
       "2025-12-01": 25,
       "2025-11-30": 57,
